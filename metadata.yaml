@@ -1,0 +1,30 @@
+_repo: Akten-voor-en-na-de-Heilige-CommunieVoor-de-kleine-kinderen_15990
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Gibergues, Emmanuel de
+    alias: De Gibergues, Emmanuel
+    birthdate: 1885
+    gutenberg_agent_id: '6417'
+    url: http://www.gutenberg.org/2009/agents/6417
+description: ''
+gutenberg_issued: '2005-06-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15990'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BX'
+- !lcsh 'Mass -- Prayers and devotions'
+- !lcsh 'Mass -- Juvenile literature'
+- !lcsh 'Catholic children -- Prayers and devotions'
+title: 'Akten voor en na de Heilige Communie
+
+  Voor de kleine kinderen'
+url: http://www.gutenberg.org/ebooks/15990
